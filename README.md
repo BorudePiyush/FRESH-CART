@@ -109,4 +109,4 @@ This project is licensed under the **MIT License**.
 ### 👤 Author
 
 Piyush Borude-(borudepiyush847@gmail.com)
-GitHub: [@BorudePiyush](github.com/BorudePiyush ()
+GitHub: [@BorudePiyush](https://github.com/BorudePiyush)
